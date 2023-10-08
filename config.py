@@ -1,0 +1,2 @@
+url="https://ohrfygkqdwkdgzafyixw.supabase.co"
+api="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9ocmZ5Z2txZHdrZGd6YWZ5aXh3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTY3MzIzMDgsImV4cCI6MjAxMjMwODMwOH0.SI6AWUeYHOLVrtAZfrRw8PSDnzq2080VG76hrbu6fYI"
